@@ -24,5 +24,7 @@ h1{
 }
 .test-auth{
 	margin-top:30px;
-	font-weight: bold
+	font-weight: bold;
+	font-style:italic;
+	align-self: right;
 }
